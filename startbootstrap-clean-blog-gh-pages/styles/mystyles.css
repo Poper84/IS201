@@ -1,0 +1,22 @@
+h1 {
+    color: bisque;
+    font-style: oblique;
+}
+img{
+    width: 90%;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+}
+h3{
+    color:white;
+    font-size: 60px;
+    font-family: cursive;
+}
+h2{
+    color:royalblue
+}
+body{
+    background-color:white
+}
